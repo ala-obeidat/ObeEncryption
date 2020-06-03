@@ -1,0 +1,8 @@
+c:\users\alaa\documents\visual studio 2015\Projects\Obeidat.Encryption\Obeidat.Encryption\bin\Debug\Obeidat.Encryption.exe.config
+c:\users\alaa\documents\visual studio 2015\Projects\Obeidat.Encryption\Obeidat.Encryption\bin\Debug\Obeidat.Encryption.exe
+c:\users\alaa\documents\visual studio 2015\Projects\Obeidat.Encryption\Obeidat.Encryption\bin\Debug\Obeidat.Encryption.pdb
+c:\users\alaa\documents\visual studio 2015\Projects\Obeidat.Encryption\Obeidat.Encryption\obj\Debug\Obeidat.Encryption.Form1.resources
+c:\users\alaa\documents\visual studio 2015\Projects\Obeidat.Encryption\Obeidat.Encryption\obj\Debug\Obeidat.Encryption.Properties.Resources.resources
+c:\users\alaa\documents\visual studio 2015\Projects\Obeidat.Encryption\Obeidat.Encryption\obj\Debug\Obeidat.Encryption.csproj.GenerateResource.Cache
+c:\users\alaa\documents\visual studio 2015\Projects\Obeidat.Encryption\Obeidat.Encryption\obj\Debug\Obeidat.Encryption.exe
+c:\users\alaa\documents\visual studio 2015\Projects\Obeidat.Encryption\Obeidat.Encryption\obj\Debug\Obeidat.Encryption.pdb
