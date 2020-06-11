@@ -1,2 +1,2 @@
 # ObeEncryption
- Encrypt text using costom wat for one to many encryption
+ Encrypt text using custom method for one to many encryption
